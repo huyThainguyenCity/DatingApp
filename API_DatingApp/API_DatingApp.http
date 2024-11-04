@@ -1,6 +1,0 @@
-@API_DatingApp_HostAddress = http://localhost:5225
-
-GET {{API_DatingApp_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
