@@ -6,9 +6,7 @@ using UngDungHenHo.Entities;
 
 namespace UngDungHenHo.Controllers
 {
-    [Route("api/[controller]")]
-    [ApiController]
-    public class UsersController : ControllerBase
+    public class UsersController : BaseApiController
     {
         public readonly DataContext _context;
         public UsersController(DataContext context)

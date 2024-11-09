@@ -21,6 +21,7 @@ namespace UngDungHenHo
                 opt.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
             });
             builder.Services.AddCors();
+            //builder.Services.
 
             var app = builder.Build();
 
