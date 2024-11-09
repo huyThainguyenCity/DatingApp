@@ -1,73 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|c:\\users\\admin\\desktop\\ontap\\datingapp\\ungdunghenho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|solutionrelative:ungdunghenho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|c:\\users\\admin\\desktop\\ontap\\datingapp\\ungdunghenho\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|c:\\users\\admin\\desktop\\ungdungchat\\datingapp\\ungdunghenho\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|solutionrelative:ungdunghenho\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|c:\\users\\admin\\desktop\\ontap\\datingapp\\ungdunghenho\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|c:\\users\\admin\\desktop\\ungdungchat\\datingapp\\ungdunghenho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|solutionrelative:ungdunghenho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|c:\\users\\admin\\desktop\\ungdungchat\\datingapp\\ungdunghenho\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|solutionrelative:ungdunghenho\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|c:\\users\\admin\\desktop\\ontap\\datingapp\\ungdunghenho\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|c:\\users\\admin\\desktop\\ungdungchat\\datingapp\\ungdunghenho\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|solutionrelative:ungdunghenho\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|c:\\users\\admin\\desktop\\ontap\\datingapp\\ungdunghenho\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|c:\\users\\admin\\desktop\\ungdungchat\\datingapp\\ungdunghenho\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|solutionrelative:ungdunghenho\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|c:\\users\\admin\\desktop\\ontap\\datingapp\\ungdunghenho\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|c:\\users\\admin\\desktop\\ungdungchat\\datingapp\\ungdunghenho\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|solutionrelative:ungdunghenho\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|c:\\users\\admin\\desktop\\ontap\\datingapp\\ungdunghenho\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|c:\\users\\admin\\desktop\\ungdungchat\\datingapp\\ungdunghenho\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|solutionrelative:ungdunghenho\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|c:\\users\\admin\\desktop\\ontap\\datingapp\\ungdunghenho\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|c:\\users\\admin\\desktop\\ungdungchat\\datingapp\\ungdunghenho\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|solutionrelative:ungdunghenho\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|c:\\users\\admin\\desktop\\ontap\\datingapp\\ungdunghenho\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|c:\\users\\admin\\desktop\\ungdungchat\\datingapp\\ungdunghenho\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|solutionrelative:ungdunghenho\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|c:\\users\\admin\\desktop\\ontap\\datingapp\\ungdunghenho\\data\\migrations\\20241109075522_userentityupdated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|c:\\users\\admin\\desktop\\ungdungchat\\datingapp\\ungdunghenho\\data\\migrations\\20241109075522_userentityupdated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|solutionrelative:ungdunghenho\\data\\migrations\\20241109075522_userentityupdated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|c:\\users\\admin\\desktop\\ontap\\datingapp\\ungdunghenho\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|c:\\users\\admin\\desktop\\ungdungchat\\datingapp\\ungdunghenho\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|solutionrelative:ungdunghenho\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|c:\\users\\admin\\desktop\\ontap\\datingapp\\ungdunghenho\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|c:\\users\\admin\\desktop\\ungdungchat\\datingapp\\ungdunghenho\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|solutionrelative:ungdunghenho\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|c:\\users\\admin\\desktop\\ontap\\datingapp\\ungdunghenho\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|c:\\users\\admin\\desktop\\ungdungchat\\datingapp\\ungdunghenho\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|solutionrelative:ungdunghenho\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|c:\\users\\admin\\desktop\\ontap\\datingapp\\ungdunghenho\\ungdunghenho.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|c:\\users\\admin\\desktop\\ungdungchat\\datingapp\\ungdunghenho\\ungdunghenho.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|solutionrelative:ungdunghenho\\ungdunghenho.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|c:\\users\\admin\\desktop\\ontap\\datingapp\\ungdunghenho\\data\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|c:\\users\\admin\\desktop\\ungdungchat\\datingapp\\ungdunghenho\\data\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|solutionrelative:ungdunghenho\\data\\migrations\\datacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|c:\\users\\admin\\desktop\\ontap\\datingapp\\ungdunghenho\\data\\migrations\\20241107073100_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|c:\\users\\admin\\desktop\\ungdungchat\\datingapp\\ungdunghenho\\data\\migrations\\20241107073100_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|solutionrelative:ungdunghenho\\data\\migrations\\20241107073100_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|c:\\users\\admin\\desktop\\ontap\\datingapp\\ungdunghenho\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|c:\\users\\admin\\desktop\\ungdungchat\\datingapp\\ungdunghenho\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94B8F406-689C-4A08-9370-2A012A54C1A6}|UngDungHenHo\\UngDungHenHo.csproj|solutionrelative:ungdunghenho\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -81,7 +81,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -89,11 +89,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TokenService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\UngDungHenHo\\Services\\TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "UngDungHenHo\\Services\\TokenService.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\UngDungHenHo\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\Services\\TokenService.cs",
               "RelativeToolTip": "UngDungHenHo\\Services\\TokenService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -104,63 +104,59 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ITokenService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\UngDungHenHo\\Interfaces\\ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\Interfaces\\ITokenService.cs",
               "RelativeDocumentMoniker": "UngDungHenHo\\Interfaces\\ITokenService.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\UngDungHenHo\\Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\Interfaces\\ITokenService.cs",
               "RelativeToolTip": "UngDungHenHo\\Interfaces\\ITokenService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T09:09:11.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T09:09:11.027Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\UngDungHenHo\\DTOs\\LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\DTOs\\LoginDto.cs",
               "RelativeDocumentMoniker": "UngDungHenHo\\DTOs\\LoginDto.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\UngDungHenHo\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\DTOs\\LoginDto.cs",
               "RelativeToolTip": "UngDungHenHo\\DTOs\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T08:30:41.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T08:30:41.47Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\UngDungHenHo\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "UngDungHenHo\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\UngDungHenHo\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\Controllers\\AccountController.cs",
               "RelativeToolTip": "UngDungHenHo\\Controllers\\AccountController.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAWwDcAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T08:05:13.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T08:05:13.311Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "RegisterDto.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\UngDungHenHo\\DTOs\\RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\DTOs\\RegisterDto.cs",
               "RelativeDocumentMoniker": "UngDungHenHo\\DTOs\\RegisterDto.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\UngDungHenHo\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\DTOs\\RegisterDto.cs",
               "RelativeToolTip": "UngDungHenHo\\DTOs\\RegisterDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T08:18:47.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T08:18:47.096Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\UngDungHenHo\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\Program.cs",
               "RelativeDocumentMoniker": "UngDungHenHo\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\UngDungHenHo\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\Program.cs",
               "RelativeToolTip": "UngDungHenHo\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T07:11:47.699Z",
               "EditorCaption": ""
@@ -169,74 +165,69 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "BaseApiController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\UngDungHenHo\\Controllers\\BaseApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\Controllers\\BaseApiController.cs",
               "RelativeDocumentMoniker": "UngDungHenHo\\Controllers\\BaseApiController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\UngDungHenHo\\Controllers\\BaseApiController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\Controllers\\BaseApiController.cs",
               "RelativeToolTip": "UngDungHenHo\\Controllers\\BaseApiController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T08:00:23.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T08:00:23.952Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "20241109075522_UserEntityUpdated.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\UngDungHenHo\\Data\\Migrations\\20241109075522_UserEntityUpdated.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\Data\\Migrations\\20241109075522_UserEntityUpdated.cs",
               "RelativeDocumentMoniker": "UngDungHenHo\\Data\\Migrations\\20241109075522_UserEntityUpdated.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\UngDungHenHo\\Data\\Migrations\\20241109075522_UserEntityUpdated.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\Data\\Migrations\\20241109075522_UserEntityUpdated.cs",
               "RelativeToolTip": "UngDungHenHo\\Data\\Migrations\\20241109075522_UserEntityUpdated.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T07:55:34.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T07:55:34.45Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\UngDungHenHo\\Controllers\\UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "UngDungHenHo\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\UngDungHenHo\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\Controllers\\UsersController.cs",
               "RelativeToolTip": "UngDungHenHo\\Controllers\\UsersController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T07:39:57.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T07:39:57.127Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\UngDungHenHo\\Entities\\AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\Entities\\AppUser.cs",
               "RelativeDocumentMoniker": "UngDungHenHo\\Entities\\AppUser.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\UngDungHenHo\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\Entities\\AppUser.cs",
               "RelativeToolTip": "UngDungHenHo\\Entities\\AppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T07:08:27.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T07:08:27.319Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\UngDungHenHo\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "UngDungHenHo\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\UngDungHenHo\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "UngDungHenHo\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T18:19:37.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T18:19:37.93Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\UngDungHenHo\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "UngDungHenHo\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\UngDungHenHo\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\Properties\\launchSettings.json",
               "RelativeToolTip": "UngDungHenHo\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -246,9 +237,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "DataContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\UngDungHenHo\\Data\\Migrations\\DataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\Data\\Migrations\\DataContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "UngDungHenHo\\Data\\Migrations\\DataContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\UngDungHenHo\\Data\\Migrations\\DataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\Data\\Migrations\\DataContextModelSnapshot.cs",
               "RelativeToolTip": "UngDungHenHo\\Data\\Migrations\\DataContextModelSnapshot.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -258,9 +249,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\UngDungHenHo\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\appsettings.json",
               "RelativeDocumentMoniker": "UngDungHenHo\\appsettings.json",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\UngDungHenHo\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\appsettings.json",
               "RelativeToolTip": "UngDungHenHo\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -270,9 +261,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "UngDungHenHo",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\UngDungHenHo\\UngDungHenHo.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\UngDungHenHo.csproj",
               "RelativeDocumentMoniker": "UngDungHenHo\\UngDungHenHo.csproj",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\UngDungHenHo\\UngDungHenHo.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\UngDungHenHo.csproj",
               "RelativeToolTip": "UngDungHenHo\\UngDungHenHo.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-11-07T07:54:41.297Z"
@@ -281,9 +272,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "20241107073100_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\UngDungHenHo\\Data\\Migrations\\20241107073100_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\Data\\Migrations\\20241107073100_InitialCreate.cs",
               "RelativeDocumentMoniker": "UngDungHenHo\\Data\\Migrations\\20241107073100_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\UngDungHenHo\\Data\\Migrations\\20241107073100_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\Data\\Migrations\\20241107073100_InitialCreate.cs",
               "RelativeToolTip": "UngDungHenHo\\Data\\Migrations\\20241107073100_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -293,9 +284,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\UngDungHenHo\\Data\\DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "UngDungHenHo\\Data\\DataContext.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\ONTAP\\DatingApp\\UngDungHenHo\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\Data\\DataContext.cs",
               "RelativeToolTip": "UngDungHenHo\\Data\\DataContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
