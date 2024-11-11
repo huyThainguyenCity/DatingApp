@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using UngDungHenHo.Data;
@@ -6,25 +6,21 @@ using UngDungHenHo.Entities;
 
 namespace UngDungHenHo.Controllers
 {
-    public class UsersController : BaseApiController
+    public class UsersController(DataContext context) : BaseApiController
     {
-        public readonly DataContext _context;
-        public UsersController(DataContext context)
-        {
-            _context = context;
-        }
-
+        [AllowAnonymous]
         [HttpGet]
         public async Task<ActionResult<IEnumerable<AppUser>>> ListUser()
         {
-            var users = await _context.Users.ToListAsync();
+            var users = await context.Users.ToListAsync();
             return Ok(users);
         }
 
+        [Authorize]
         [HttpGet("{id:int}")] //api/id
         public async Task<ActionResult<AppUser>> GetUser(int id)
         {
-            var users = await _context.Users.FindAsync(id);
+            var users = await context.Users.FindAsync(id);
             if(users == null)
             {
                 return NotFound();

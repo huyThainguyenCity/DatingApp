@@ -6,16 +6,17 @@ using System.Text;
 using UngDungHenHo.Data;
 using UngDungHenHo.DTOs;
 using UngDungHenHo.Entities;
+using UngDungHenHo.Interfaces;
 
 namespace UngDungHenHo.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class AccountController(DataContext context) : BaseApiController
+    public class AccountController(DataContext context, ITokenService tokenService) : BaseApiController
     {
         [HttpPost("register")] //account/register
 
-        public async Task<ActionResult<AppUser>> Register (RegisterDto registerDto)
+        public async Task<ActionResult<UserDto>> Register (RegisterDto registerDto)
         {
             if (await UserExist(registerDto.Username))
             {
@@ -32,11 +33,15 @@ namespace UngDungHenHo.Controllers
 
             context.Users.Add(user);
             await context.SaveChangesAsync();
-            return user;
+            return new UserDto
+            {
+                Username = user.UserName,
+                Token = tokenService.CreateToken(user)
+            };
         }
 
         [HttpPost("login")]
-        public async Task<ActionResult<AppUser>> Login(LoginDto loginDto)
+        public async Task<ActionResult<UserDto>> Login(LoginDto loginDto)
         {
             var user = await context.Users.FirstOrDefaultAsync(x => x.UserName == loginDto.Username.ToLower());
             
@@ -56,7 +61,11 @@ namespace UngDungHenHo.Controllers
                     return Unauthorized("Mật khẩu không chính xác");
                 }
             }
-            return user;
+            return new UserDto
+            {
+                Username = user.UserName,
+                Token = tokenService.CreateToken(user)
+            };
         }
 
         private async Task<bool> UserExist(string username)
