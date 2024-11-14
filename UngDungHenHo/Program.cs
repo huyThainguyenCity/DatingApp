@@ -1,12 +1,6 @@
 ﻿
-using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
-using System.Text;
-using UngDungHenHo.Data;
-using UngDungHenHo.Interfaces;
-using UngDungHenHo.Services;
+using UngDungHenHo.Extensions;
 
 namespace UngDungHenHo
 {
@@ -18,28 +12,13 @@ namespace UngDungHenHo
 
             // Add services to the container.
 
-            builder.Services.AddControllers();
+            builder.Services.AddApplicationServices(builder.Configuration);
+            builder.Services.AddIdentityServices(builder.Configuration);
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
-            builder.Services.AddDbContext<DataContext>(opt =>
-            {
-                opt.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
-            });
-            builder.Services.AddCors();
-            builder.Services.AddScoped<ITokenService, TokenService>();
-            builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
-                .AddJwtBearer(options =>
-                {
-                    var tokenKey = builder.Configuration["TokenKey"] ?? throw new Exception("TokenKey not found");
-                    options.TokenValidationParameters = new TokenValidationParameters
-                    {
-                        ValidateIssuerSigningKey = true,
-                        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(tokenKey)),
-                        ValidateIssuer = false,
-                        ValidateAudience = false
-                    };
-                });
+            
+           
             builder.Services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Test01", Version = "v1" });

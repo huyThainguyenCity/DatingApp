@@ -101,8 +101,7 @@
               "RelativeToolTip": "UngDungHenHo\\Controllers\\UsersController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T07:39:57.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T07:39:57.127Z"
             },
             {
               "$type": "Document",
@@ -112,7 +111,7 @@
               "RelativeDocumentMoniker": "UngDungHenHo\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\Program.cs",
               "RelativeToolTip": "UngDungHenHo\\Program.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAQwEYAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T07:11:47.699Z",
               "EditorCaption": ""
@@ -127,8 +126,7 @@
               "RelativeToolTip": "UngDungHenHo\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-07T07:15:08.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T07:15:08.976Z"
             },
             {
               "$type": "Document",
@@ -140,8 +138,7 @@
               "RelativeToolTip": "UngDungHenHo\\Services\\TokenService.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T09:14:56.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T09:14:56.216Z"
             },
             {
               "$type": "Document",
@@ -153,8 +150,7 @@
               "RelativeToolTip": "UngDungHenHo\\Controllers\\AccountController.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAQwCwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T08:05:13.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T08:05:13.311Z"
             },
             {
               "$type": "Document",
@@ -166,8 +162,7 @@
               "RelativeToolTip": "UngDungHenHo\\DTOs\\UserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T06:25:07.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T06:25:07.614Z"
             },
             {
               "$type": "Document",
@@ -179,8 +174,7 @@
               "RelativeToolTip": "UngDungHenHo\\Interfaces\\ITokenService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T09:09:11.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T09:09:11.027Z"
             },
             {
               "$type": "Document",
@@ -192,8 +186,7 @@
               "RelativeToolTip": "UngDungHenHo\\DTOs\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T08:30:41.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T08:30:41.47Z"
             },
             {
               "$type": "Document",
@@ -205,8 +198,7 @@
               "RelativeToolTip": "UngDungHenHo\\DTOs\\RegisterDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T08:18:47.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T08:18:47.096Z"
             },
             {
               "$type": "Document",
@@ -218,8 +210,7 @@
               "RelativeToolTip": "UngDungHenHo\\Controllers\\BaseApiController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T08:00:23.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T08:00:23.952Z"
             },
             {
               "$type": "Document",
@@ -231,8 +222,7 @@
               "RelativeToolTip": "UngDungHenHo\\Data\\Migrations\\20241109075522_UserEntityUpdated.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T07:55:34.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T07:55:34.45Z"
             },
             {
               "$type": "Document",
@@ -244,8 +234,7 @@
               "RelativeToolTip": "UngDungHenHo\\Entities\\AppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T07:08:27.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T07:08:27.319Z"
             },
             {
               "$type": "Document",
@@ -257,8 +246,7 @@
               "RelativeToolTip": "UngDungHenHo\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T18:19:37.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T18:19:37.93Z"
             },
             {
               "$type": "Document",
@@ -270,8 +258,7 @@
               "RelativeToolTip": "UngDungHenHo\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwBoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-07T07:15:17.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T07:15:17.665Z"
             },
             {
               "$type": "Document",
@@ -283,8 +270,7 @@
               "RelativeToolTip": "UngDungHenHo\\Data\\Migrations\\DataContextModelSnapshot.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T07:31:18.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T07:31:18.521Z"
             },
             {
               "$type": "Document",
@@ -295,8 +281,7 @@
               "ToolTip": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\UngDungHenHo.csproj",
               "RelativeToolTip": "UngDungHenHo\\UngDungHenHo.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-07T07:54:41.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T07:54:41.297Z"
             },
             {
               "$type": "Document",
@@ -308,8 +293,7 @@
               "RelativeToolTip": "UngDungHenHo\\Data\\Migrations\\20241107073100_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T07:31:19.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T07:31:19.418Z"
             },
             {
               "$type": "Document",
@@ -321,8 +305,7 @@
               "RelativeToolTip": "UngDungHenHo\\Data\\DataContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T07:05:11.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T07:05:11.009Z"
             },
             {
               "$type": "Document",
