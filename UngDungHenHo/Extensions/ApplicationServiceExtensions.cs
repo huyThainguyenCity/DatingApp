@@ -20,4 +20,5 @@ namespace UngDungHenHo.Extensions
 
             return services;
         }
+    }
 }

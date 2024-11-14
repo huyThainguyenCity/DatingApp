@@ -273,3 +273,9 @@ C:\Users\Admin\Desktop\UNGDUNGCHAT\DatingApp\UngDungHenHo\obj\Debug\net8.0\UngDu
 C:\Users\Admin\Desktop\UNGDUNGCHAT\DatingApp\UngDungHenHo\obj\Debug\net8.0\UngDungHenHo.genruntimeconfig.cache
 C:\Users\Admin\Desktop\UNGDUNGCHAT\DatingApp\UngDungHenHo\obj\Debug\net8.0\ref\UngDungHenHo.dll
 C:\Users\Admin\Desktop\UNGDUNGCHAT\DatingApp\UngDungHenHo\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\Desktop\UNGDUNGCHAT\DatingApp\UngDungHenHo\bin\Debug\net8.0\client_henho\angular.json
+C:\Users\Admin\Desktop\UNGDUNGCHAT\DatingApp\UngDungHenHo\bin\Debug\net8.0\client_henho\package-lock.json
+C:\Users\Admin\Desktop\UNGDUNGCHAT\DatingApp\UngDungHenHo\bin\Debug\net8.0\client_henho\package.json
+C:\Users\Admin\Desktop\UNGDUNGCHAT\DatingApp\UngDungHenHo\bin\Debug\net8.0\client_henho\tsconfig.app.json
+C:\Users\Admin\Desktop\UNGDUNGCHAT\DatingApp\UngDungHenHo\bin\Debug\net8.0\client_henho\tsconfig.json
+C:\Users\Admin\Desktop\UNGDUNGCHAT\DatingApp\UngDungHenHo\bin\Debug\net8.0\client_henho\tsconfig.spec.json
