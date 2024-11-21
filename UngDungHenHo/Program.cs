@@ -1,6 +1,7 @@
 ﻿
 using Microsoft.OpenApi.Models;
 using UngDungHenHo.Extensions;
+using UngDungHenHo.Middleware;
 
 namespace UngDungHenHo
 {
@@ -57,6 +58,7 @@ namespace UngDungHenHo
                 app.UseSwagger();
                 app.UseSwaggerUI();
             }
+            app.UseMiddleware<ExceptionMiddleware>();
             app.UseCors(x => x.AllowAnyHeader().AllowAnyMethod()
                 .WithOrigins("http://localhost:4200", "https://localhost:4200"));
             app.UseHttpsRedirection();
