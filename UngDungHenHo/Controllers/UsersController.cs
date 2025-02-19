@@ -1,31 +1,35 @@
-﻿using Microsoft.AspNetCore.Authorization;
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using System.Net.WebSockets;
 using UngDungHenHo.Data;
+using UngDungHenHo.DTOs;
 using UngDungHenHo.Entities;
+using UngDungHenHo.Interfaces;
 
 namespace UngDungHenHo.Controllers
 {
-    public class UsersController(DataContext context) : BaseApiController
+    [Authorize]
+    public class UsersController(IUserRepository userRepository) : BaseApiController
     {
-        [AllowAnonymous]
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<AppUser>>> ListUser()
+        public async Task<ActionResult<IEnumerable<MemberDto>>> GetUsers()
         {
-            var users = await context.Users.ToListAsync();
+            var users = await userRepository.GetMembersAsync();
+
             return Ok(users);
         }
 
-        [Authorize]
-        [HttpGet("{id:int}")] //api/id
-        public async Task<ActionResult<AppUser>> GetUser(int id)
+        [HttpGet("{username}")] //api/id
+        public async Task<ActionResult<MemberDto>> GetUser(string username)
         {
-            var users = await context.Users.FindAsync(id);
+            var users = await userRepository.GetMemberAsync(username);
             if(users == null)
             {
                 return NotFound();
             }
-            return Ok(users);
+            return users;
         }
     }
 }

@@ -279,3 +279,5 @@ C:\Users\Admin\Desktop\UNGDUNGCHAT\DatingApp\UngDungHenHo\bin\Debug\net8.0\clien
 C:\Users\Admin\Desktop\UNGDUNGCHAT\DatingApp\UngDungHenHo\bin\Debug\net8.0\client_henho\tsconfig.app.json
 C:\Users\Admin\Desktop\UNGDUNGCHAT\DatingApp\UngDungHenHo\bin\Debug\net8.0\client_henho\tsconfig.json
 C:\Users\Admin\Desktop\UNGDUNGCHAT\DatingApp\UngDungHenHo\bin\Debug\net8.0\client_henho\tsconfig.spec.json
+C:\Users\Admin\Desktop\UNGDUNGCHAT\DatingApp\UngDungHenHo\bin\Debug\net8.0\Data\UserSeedData.json
+C:\Users\Admin\Desktop\UNGDUNGCHAT\DatingApp\UngDungHenHo\bin\Debug\net8.0\AutoMapper.dll
