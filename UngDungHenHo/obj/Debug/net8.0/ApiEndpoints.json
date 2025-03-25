@@ -153,6 +153,22 @@
   },
   {
     "ContainingType": "UngDungHenHo.Controllers.UsersController",
+    "Method": "UpdateUser",
+    "RelativePath": "api/Users",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "memberUpdateDto",
+        "Type": "UngDungHenHo.DTOs.MemberUpdateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UngDungHenHo.Controllers.UsersController",
     "Method": "GetUser",
     "RelativePath": "api/Users/{username}",
     "HttpMethod": "GET",
