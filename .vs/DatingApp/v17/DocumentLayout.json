@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "UngDungHenHo\\Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\UNGDUNGCHAT\\DatingApp\\UngDungHenHo\\Controllers\\UsersController.cs",
               "RelativeToolTip": "UngDungHenHo\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwC8AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwB8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T14:13:01.571Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "UngDungHenHo\\Helpers\\AutoMapperProfiles.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T14:12:07.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T14:12:07.854Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "UngDungHenHo\\DTOs\\MemberUpdateDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T14:10:33.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T14:10:33.472Z"
             }
           ]
         }
