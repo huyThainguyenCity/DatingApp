@@ -5,11 +5,12 @@ import { MembersService } from '../../_service/members.service';
 import { TabsModule } from 'ngx-bootstrap/tabs';
 import { FormsModule, NgForm } from '@angular/forms';
 import Swal from 'sweetalert2';
+import { PhotoEditorComponent } from "../photo-editor/photo-editor.component";
 
 @Component({
   selector: 'app-member-edit',
   standalone: true,
-  imports: [TabsModule, FormsModule],
+  imports: [TabsModule, FormsModule, PhotoEditorComponent],
   templateUrl: './member-edit.component.html',
   styleUrl: './member-edit.component.css'
 })
@@ -57,6 +58,10 @@ export class MemberEditComponent implements OnInit {
         });
       }
     });
+  }
+
+  onMemberChange(event: Member) {
+    this.member = event;
   }
 
 }
