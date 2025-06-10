@@ -221,6 +221,22 @@
   },
   {
     "ContainingType": "UngDungHenHo.Controllers.UsersController",
+    "Method": "DeletePhoto",
+    "RelativePath": "api/Users/delete-photo/{photoId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "photoId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UngDungHenHo.Controllers.UsersController",
     "Method": "SetMainPhoto",
     "RelativePath": "api/Users/set-main-photo/{photoId}",
     "HttpMethod": "PUT",
