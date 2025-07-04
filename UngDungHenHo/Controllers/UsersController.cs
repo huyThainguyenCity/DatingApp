@@ -8,6 +8,7 @@ using UngDungHenHo.Data;
 using UngDungHenHo.DTOs;
 using UngDungHenHo.Entities;
 using UngDungHenHo.Extensions;
+using UngDungHenHo.Helpers;
 using UngDungHenHo.Interfaces;
 
 namespace UngDungHenHo.Controllers
@@ -16,10 +17,12 @@ namespace UngDungHenHo.Controllers
     public class UsersController(IUserRepository userRepository, IMapper mapper, IPhotoService photoService) : BaseApiController
     {
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<MemberDto>>> GetUsers()
+        public async Task<ActionResult<IEnumerable<MemberDto>>> GetUsers([FromQuery]UserParams userParams)
         {
-            var users = await userRepository.GetMembersAsync();
+            userParams.CurrentUserName = User.GetUsername();
+            var users = await userRepository.GetMembersAsync(userParams);
 
+            Response.AddPaginationHeader(users);
             return Ok(users);
         }
 

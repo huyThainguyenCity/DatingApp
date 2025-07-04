@@ -37,7 +37,8 @@ namespace UngDungHenHo.Controllers
             {
                 Username = user.UserName,
                 KnownAs = user.KnownAs,
-                Token = tokenService.CreateToken(user)
+                Token = tokenService.CreateToken(user),
+                Gender = user.Gender
             };
         }
 
@@ -67,6 +68,7 @@ namespace UngDungHenHo.Controllers
                 Username = user.UserName,
                 KnownAs = user.KnownAs,
                 Token = tokenService.CreateToken(user),
+                Gender = user.Gender,
                 PhotoUrl = user.Photos.FirstOrDefault(x => x.IsMain)?.Url
             };
         }
